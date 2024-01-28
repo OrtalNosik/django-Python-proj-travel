@@ -1,14 +1,25 @@
-# TravelAgancy
-Introduction to Computer Communications course project website for Travel agancy
+# Travel Agency Website Project - Computer Communications Course
 
-The authors: Rotem Hadad 207784125 Ortal Nosik 318270378
+**Authors:**
+- Rotem Hadad 
+- Ortal Nosik
 
-The work environment in this project is: Html, css, JS, Python, Django SQLlite3, SQLAlchemy
+**Technology Stack:**
+- HTML, CSS, JS
+- Python, Django
+- SQLite3, SQLAlchemy
 
-Requried: This assumes that python3 is linked to valid installation of python 3 and that pip is installed and pip3 (if not - run the commands: pip install pipenv pip install django) is valid for installing python 3 packages. Make sure you have the latest version of Visual Studio Code. Django version 3.2 Django-login sqlalchemy sqlite3
+**Requirements:**
+- Ensure Python 3 is correctly linked (install using `pip install pipenv pip install django` if not).
+- Confirm the latest version of Visual Studio Code.
+- Dependencies: Django 3.2, Django-login, SQLAlchemy, SQLite3.
 
-Running the app: in your terminal write the command: python manage.py runserver
+**Running the Application:**
+Execute the command `python manage.py runserver` in your terminal.
 
-Viewing The App: Go to http: http://127.0.0.1:8000/
+**Viewing the App:**
+Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser.
 
-For admin user login with - username: admin password: 123456
+**Admin User Login:**
+- Username: admin
+- Password: 123456
