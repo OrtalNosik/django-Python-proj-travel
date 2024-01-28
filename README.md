@@ -28,3 +28,5 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser.
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/db87805a-28c3-4891-a6d0-5f24a6ccd06e)
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/63e0afec-ea9b-426d-9b63-2bc919797d31)
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/ac0cbee1-3d0f-4366-836f-be1442e298b5)
+![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/7efee6e7-e6f6-4a56-b588-15c2c93140f4)
+
