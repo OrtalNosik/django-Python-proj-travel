@@ -23,7 +23,8 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser.
 **Admin User Login:**
 - Username: admin
 - Password: 123456
-
+  
+# Screens UI
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/ff442056-cb2c-4374-84cd-38095cf552ef)
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/db87805a-28c3-4891-a6d0-5f24a6ccd06e)
 ![image](https://github.com/OrtalNosik/django-Python-proj-travel/assets/93153515/63e0afec-ea9b-426d-9b63-2bc919797d31)
