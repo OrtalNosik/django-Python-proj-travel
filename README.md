@@ -1,4 +1,4 @@
-# Travel Agency Website Project - Computer Communications Course
+# Travel Agency Website Project - MVC's Computer Communications Course
 
 **Authors:**
 - Rotem Hadad 
